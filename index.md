@@ -8,7 +8,7 @@ Here's a list of things I've created/worked on/etc over the last few years.
 
 ![](vulkan-base.png)
 
-I now know Vulkan too! Having learnt [wgpu-rs], I had a pretty good grasp of the basic Vulkan concepts, _except_ most of the ones that vulkan-tutorial.com goes through in the 3 - 7 hours before you've actually gotten anything drawn on a window. Now having created this base for vulkan projects, I have a bit of a better idea about syncronisation and the like.
+I now know Vulkan too! Having learnt [wgpu-rs], I had a pretty good grasp of the basic Vulkan concepts, _except_ most of the ones that vulkan-tutorial.com goes through in the 3 - 7 hours before you've actually gotten anything drawn on a window. Now having created this base for vulkan projects, I have a bit of a better idea about synchronisation and the like.
 ## [Dune Scene](https://github.com/expenses/dune_scene) (2021 - Present)
 
 - Rust with [wgpu-rs]
@@ -55,7 +55,7 @@ A rewrite of [Hectic](#hectic) below. My first time trying out a more modern gra
 
 Playable online at expenses.github.io/hectic-rs-wasm using [a browser with webgpu enabled], although this could break at any time.
 
-## Nebularwar (2018, 2020)
+## Nebulawar (2018, 2020)
 
 ![](nebulawar.png)
 
