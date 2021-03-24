@@ -45,6 +45,15 @@ A Real Time Strategy Game I made for the 2020 Github Game Off. I put a ton of wo
 
 Playable online at expenses.github.io/cheese using [a browser with webgpu enabled], although this could break at any time.
 
+## [Tilegen](https://github.com/expenses/tilegen) (2020)
+
+- Rust
+- ~ 550 lines of code
+
+![Two top down images consisting of small tiles. The top shows cities and roads and rivers, while the bottom shows a snowy alien landscape with caves and frozen lakes](tilegen.png)
+
+A fun little project to procedurally generate images from a set of rules about what tiles can be neighbours via [WaveFunctionCollapse]. See the readme for more info!
+
 ## [Hectic-rs](https://github.com/expenses/hectic-rs) (2020)
 
 - Rust with [wgpu-rs]
@@ -89,3 +98,4 @@ My first foray into graphics programming. Doesn't reflect my current abilities! 
 [wgpu-rs]: https://github.com/gfx-rs/wgpu-rs
 [gltf]: https://github.com/KhronosGroup/glTF
 [ash]: https://crates.io/crates/ash
+[WaveFunctionCollapse]: https://github.com/mxgmn/WaveFunctionCollapse
