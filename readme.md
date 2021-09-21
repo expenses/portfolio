@@ -1,1 +1,1 @@
-Use `hugo -D` to build. Or maybe just `hugo`.
+Use `hugo -d docs` to build
