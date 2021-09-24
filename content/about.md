@@ -10,3 +10,4 @@ I need to write a proper paragraph here at some point, but for now just go check
 # Contact
 * Email: ashley.ruglys@gmail.com
 * GitHub: [expenses](https://github.com/expenses)
+* [LinkedIn](https://www.linkedin.com/in/ashley-ruglys/)

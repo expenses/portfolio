@@ -1,1 +1,1 @@
-Use `hugo -d docs` to build
+Use `hugo` to build
